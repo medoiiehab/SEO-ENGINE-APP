@@ -6,8 +6,8 @@
   --ink: #18243a;
   --muted: #788398;
   --line: #e6eaf0;
-  --purple: #6658e8;
-  --purple-soft: #f1efff;
+  --purple: #39b980;
+  --purple-soft: #74e9b4;
   width: min(1440px, 100%);
   margin: 0 auto;
   padding: 0 48px 28px;
@@ -39,8 +39,8 @@
   place-items: center;
   color: #fff;
   border-radius: 11px;
-  background: linear-gradient(145deg, #806ff3, #5748cf);
-  box-shadow: 0 5px 12px #6658e833;
+  background: linear-gradient(145deg, #39b980, #02b665);
+  box-shadow: 0 5px 12px #39b98033;
 }
 
 .brand-period {
@@ -100,7 +100,7 @@
 
 .eyebrow span {
   padding: 0 4px;
-  color: #b0a7f1;
+  color: #39b980;
 }
 
 .page-heading h1 {
@@ -656,10 +656,10 @@
   gap: 9px;
   margin-top: 13px;
   padding: 11px 12px;
-  color: #6759c8;
+  color: #35a878;
   border: 1px solid #e8e3ff;
   border-radius: 9px;
-  background: #f7f5ff;
+  background: #f4faf8;
 }
 
 .next-step > svg {
@@ -675,7 +675,7 @@
 }
 
 .next-step strong {
-  color: #5144ad;
+  color: #69618d;
 }
 
 .preview-panel {
@@ -714,10 +714,10 @@
   height: 25px;
   display: grid;
   place-items: center;
-  color: #6154d5;
+  color: #39b980;
   border: 1px solid #eeecfa;
   border-radius: 50%;
-  background: #f2f0ff;
+  background: #e9f4ef;
   font-size: 13px;
   font-weight: 750;
 }

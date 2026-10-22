@@ -170,13 +170,13 @@ export default function App() {
         <div className="topbar-meta">
           <span className="draft-indicator"><span /> Draft workspace</span>
           <span className="topbar-divider" />
-          <span className="topbar-caption">SEO content studio</span>
+          <span className="topbar-caption">SEO Engine Studio</span>
         </div>
       </header>
 
       <section className="page-heading">
         <div>
-          <p className="eyebrow">CONTENT WORKSPACE <span>·</span> NEW ARTICLE</p>
+          <p className="eyebrow">CONTENT WORKSPACE <span>·</span> NEW ARTICLE DEMO</p>
           <h1>Make every word work harder.</h1>
           <p className="page-description">
             Shape your story and fine-tune your search presence as you write.
@@ -362,7 +362,7 @@ export default function App() {
             </div>
             <div className="search-result">
               <div className="result-site">
-                <span className="site-favicon">s</span>
+                <span className="site-favicon"><ChartDonutIcon size={17} /></span>
                 <div><strong>mysite.com</strong><span>https://mysite.com › {slug || 'article-url'}</span></div>
               </div>
               <h3>{title || 'Your article title will appear here'}</h3>
